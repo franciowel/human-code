@@ -1,0 +1,28 @@
+Traccia 2 :
+Aprire un pacchetto di figurine
+Ce l’ho, mi manca!
+
+1 - Compro un nuovo pacchetto di figurine.
+    -prendo il pacchetto in mano.
+    -lo apro.
+    -estraggo le figurine dal pacchetto.
+    -le inizio a sfogliare.
+    
+2 - Prendo l'album
+	- apro l'album
+	- sfoglio le pagine 
+    - dove manca una figurina/(dove c'è uno spazio vuoto) sicuramente ci andrà una figurina.
+ 	
+3 - Controllo quali figurine sono presenti nell'album
+	-se la figurina è già presente nell'album, la metto nel mazzo dei doppioni
+	-altrimenti : 
+        -ritorno sugli spazi vuoti.
+        -prendo la figurina.
+		-rimuovo l'adesivo.
+		-Incollo la figurina al suo posto.
+
+4 - Porto il mazzo dei doppioni a scuola per fare qualche scambio:
+    -prendo in mano il mazzo dei doppioni.
+    -trovo un compagno che vuole scambiare le carte.
+    -se la sua carta è diversa dalla mia, propongo uno scambio.
+    -se ottengo carte nuove, torno al punto 3.
